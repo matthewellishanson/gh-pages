@@ -1,10 +1,42 @@
 <!DOCTYPE html>
   <head>
     <title>The Pale Blue Dot</title>
+    <style type="text/css"> 
+      <!-- 
+  
+    #navbar ul { 
+    	margin: 0; 
+    	padding: 5px; 
+    	list-style-type: none; 
+    	text-align: center; 
+    	background-color: #000; 
+    	} 
+   
+    #navbar ul li {  
+  	  display: inline; 
+  	  } 
+   
+    #navbar ul li a { 
+  	  text-decoration: none; 
+  	  padding: .2em 1em; 
+  	  color: #fff; 
+    	background-color: #000; 
+  	  } 
+   
+    #navbar ul li a:hover { 
+  	  color: #000; 
+  	  background-color: #fff; 
+  	  } 
+   
+  --> 
+    </style> 
   </head>
+  
   <body>
-    <img src="http://static1.squarespace.com/static/545ac201e4b067efa39139a9/t/55804815e4b09c35bcf19b58/1434470422169/11021188_10205057726436601_7091743977141729336_n.jpg?format=1500w">
-    <h3>The Pale Blue Dot</h3>
-    <h2>A Small Blog for the Big Picture</h2>
+    <div id="navbar">
+      <ul>
+        <li><a href="navbar">http://pbdot.com/the-author"</a></li>
+        <li><a href="navbar">http://pbdot.com/topics/#human-rights</a></li>
+      </ul>
   </body>
     
